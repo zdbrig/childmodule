@@ -1,3 +1,0 @@
-[submodule "childmodule"]
-	path = childmodule
-	url = git@github.com:zdbrig/childmodule.git
